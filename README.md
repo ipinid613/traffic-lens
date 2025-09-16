@@ -5,10 +5,11 @@ OpenCV를 활용하여 천안시 공공 CCTV 영상을 실시간으로 확인하
 <br>
 
 ### 실행 결과 예시
-| ![불당현대 사거리](https://github.com/ipinid613/traffic-lens/blob/master/videos/%EB%B6%88%EB%8B%B9%ED%98%84%EB%8C%80_%EC%82%AC%EA%B1%B0%EB%A6%AC_output_20250916193702.gif)
- | ![시청 사거리](https://github.com/ipinid613/traffic-lens/blob/master/videos/%EC%8B%9C%EC%B2%AD_%EC%82%AC%EA%B1%B0%EB%A6%AC_output_20250916193803.gif)
- | ![예술의전당](https://github.com/ipinid613/traffic-lens/blob/master/videos/%EC%98%88%EC%88%A0%EC%9D%98_%EC%A0%84%EB%8B%B9_output_20250916193825.gif)
- |
+ <p align="center" width="100%">
+  <img src="https://github.com/ipinid613/traffic-lens/blob/master/videos/%EC%8B%9C%EC%B2%AD_%EC%82%AC%EA%B1%B0%EB%A6%AC_output_20250916193803.gif" width="32%">
+  <img src="https://github.com/ipinid613/traffic-lens/blob/master/videos/%EC%8B%9C%EC%B2%AD_%EC%82%AC%EA%B1%B0%EB%A6%AC_output_20250916193803.gif" width="32%">
+  <img src="https://github.com/ipinid613/traffic-lens/blob/master/videos/%EC%98%88%EC%88%A0%EC%9D%98_%EC%A0%84%EB%8B%B9_output_20250916193825.gif" width="32%">
+</p>
 
 <br>
 
