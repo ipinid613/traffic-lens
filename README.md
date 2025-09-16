@@ -47,7 +47,7 @@ OpenCV를 활용하여 천안시 공공 CCTV 영상을 실시간으로 확인하
 ## 설치 및 실행 방법 (`uv` 사용)
 
 1.  **`uv` 설치**
-    -   `uv`가 설치되어 있지 않다면, [공식 설치 가이드](https://github.com/astral-sh/uv#installation)를 참고하여 먼저 설치.
+    -   `uv`가 설치되어 있지 않다면, [공식 설치 가이드](https://github.com/astral-sh/uv#installation)를 참고하여 먼저 설치
 
 2.  **프로젝트 설정**
     ```bash
