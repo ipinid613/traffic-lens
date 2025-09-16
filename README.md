@@ -5,10 +5,7 @@ OpenCV를 활용하여 천안시 공공 CCTV 영상을 실시간으로 확인하
 <br>
 
 ### 실행 결과 예시
-
-(실행 화면 스크린샷 또는 GIF를 추가 예정)
-
-![실행 화면 예시](placeholder.gif)
+![실행 화면 예시](https://github.com/user-attachments/assets/e86c69b6-9858-44f9-aa57-c9643544ba72)
 
 <br>
 
